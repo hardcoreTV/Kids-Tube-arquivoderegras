@@ -1,3 +1,8 @@
+
+
+
+
+
 {
   "versao": 1,
   "servidores": [
@@ -14,10 +19,19 @@
   "chave_api": "",
   "sponsorblock": "https://sponsor.ajay.app",
   "secoes": [
-    { "key": "filmes", "title": "🎬 Filmes", "q": "filme completo dublado português", "min": 3000 },
-    { "key": "faroeste", "title": "🤠 Filmes de faroeste", "q": "filme de faroeste completo dublado", "min": 3000 },
-    { "key": "animes", "title": "🎌 Animes", "q": "anime completo dublado português", "min": 1200 },
-    { "key": "animais", "title": "🦁 Animais e vida selvagem", "q": "documentário animais vida selvagem português", "min": 1200 },
-    { "key": "natureza", "title": "🌿 Natureza", "q": "documentário natureza paisagens português brasil", "min": 1200 }
+{
+  "categories": [
+    { "key": "desenhos", "title": "🖍️ Desenhos", "q": "desenho animado completo dublado infantil", "min": 1200 },
+    { "key": "infantis", "title": "🧸 Desenhos infantis", "q": "desenhos infantis completos dublado", "min": 1200 },
+    { "key": "religiosos", "title": "✝️ Desenhos religiosos", "q": "desenho bíblico infantil completo dublado", "min": 1200 },
+    { "key": "historias", "title": "📖 Histórias infantis", "q": "história infantil animada dublado", "min": 600 },
+    { "key": "educativos", "title": "🧩 Desenhos educativos", "q": "desenho educativo infantil dublado", "min": 600 }
   ]
 }
+
+
+
+
+
+
+
