@@ -1,8 +1,3 @@
-
-
-
-
-
 {
   "versao": 1,
   "servidores": [
@@ -13,19 +8,31 @@
   "chave_api": "",
   "sponsorblock": "https://sponsor.ajay.app",
   "secoes": [
-{
-  "categories": [
-    { "key": "desenhos", "title": "🖍️ Desenhos", "q": "desenho animado completo dublado infantil", "min": 1200 },
-    { "key": "infantis", "title": "🧸 Desenhos infantis", "q": "desenhos infantis completos dublado", "min": 1200 },
-    { "key": "religiosos", "title": "✝️ Desenhos religiosos", "q": "desenho bíblico infantil completo dublado", "min": 1200 },
-    { "key": "historias", "title": "📖 Histórias infantis", "q": "história infantil animada dublado", "min": 600 },
-    { "key": "educativos", "title": "🧩 Desenhos educativos", "q": "desenho educativo infantil dublado", "min": 600 }
+    {
+      "categories": [
+        { "key": "criança", "title": "🎈 Infantil", "q": "criança infantil", "min": 1200 },
+        { "key": "desenhos", "title": "🖍️ Desenhos", "q": "desenho animado completo dublado infantil", "min": 1200 },
+        { "key": "infantis", "title": "🧸 Desenhos infantis", "q": "desenhos infantis completos dublado", "min": 1200 },
+        { "key": "religiosos", "title": "✝️ Desenhos religiosos", "q": "desenho bíblico infantil completo dublado", "min": 1200 },
+        { "key": "historias", "title": "📖 Histórias infantis", "q": "história infantil animada dublado", "min": 600 },
+        { "key": "educativos", "title": "🧩 Desenhos educativos", "q": "desenho educativo infantil dublado", "min": 600 },
+        { "key": "Numberblocks", "title": "🔢 Numberblocks", "q": "Numberblocks em Português Brasil", "min": 600 },
+        { "key": "MariaClara", "title": "👧👦 Maria Clara & JP", "q": "Maria Clara & JP", "min": 600 },
+        { "key": "Booba", "title": "🐻‍❄️ Booba", "q": "Booba Português – Desenho Animado Infantil", "min": 600 },
+        { "key": "SimonSuperCoelho", "title": "🐰 Simon Super Coelho", "q": "Simon Super Coelho Português Brasileiro", "min": 600 },
+        { "key": "CocoFroco", "title": "🐒 Coco Froco", "q": "Coco Froco Português", "min": 600 },
+        { "key": "Maya Kids", "title": "🎀 Maya Kids", "q": "Maya Kids", "min": 600 },
+        { "key": "KidsFunnySongs", "title": "🎵 Kids Funny Songs", "q": "Kids Funny Songs", "min": 600 },
+        { "key": "Turma da Pakaraka", "title": "🎪 Turma da Pakaraka", "q": "Turma da Pakaraka", "min": 600 },
+        { "key": "KidsRomaShow", "title": "⭐ Kids Roma Show", "q": "Kids Roma Show", "min": 600 },
+        { "key": "TurmaKidseCia", "title": "🎉 Turma Kids e Cia", "q": "Turma Kids e Cia", "min": 600 },
+        { "key": "LUCCASTOON", "title": "🦭 LUCCAS TOON", "q": "LUCCAS TOON", "min": 600 },
+        { "key": "OSAVENTUREIROS", "title": "🦸 OS AVENTUREIROS", "q": "OS AVENTUREIROS", "min": 600 },
+        { "key": "ESCOLAFANTASTICAOFICIAL", "title": "🏫 ESCOLA FANTÁSTICA OFICIAL", "q": "ESCOLA FANTÁSTICA OFICIAL", "min": 600 },
+        { "key": "DianaandRomaPRT", "title": "👑 Diana and Roma PRT", "q": "Diana and Roma PRT", "min": 600 },
+        { "key": "LikeNastyaPRT", "title": "🦄 Like Nastya PRT", "q": "Like Nastya PRT", "min": 600 },
+        { "key": "roblox", "title": "🎮 Roblox", "q": "roblox ptbr", "min": 600 }
+      ]
+    }
   ]
 }
-
-
-
-
-
-
-
